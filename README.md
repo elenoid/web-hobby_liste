@@ -1,5 +1,4 @@
 # hobby_liste
----
 Projektdaten:
   Ersteller: Pascal Zwicker  
   Besitzer: Pascal Zwicker  
